@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css");
+body
+{
+	/* background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)); */
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin:10 px;
+  padding : 10px;
+}
